@@ -5,7 +5,7 @@ Each dataset is derived from geographic maps published in a *source publication*
 2. The metadata provided in the source publication is used to match the shape to a [languoid](https://glottolog.org/glottolog/glottologinformation)
    in the [Glottolog](https://glottolog.org) catalog.
 
-> ![NOTE]
+> [!NOTE]
 > Multiple features in the source may be mapped to the same Glottolog languoid.
 
 This information is packaged into a [CLDF](https://cldf.clld.org) dataset (in the `cldf` subdirectory of each dataset) in order to provide interoperable data for cross-linguistic analyses as follows:
