@@ -18,3 +18,5 @@ This information is packaged into a [CLDF](https://cldf.clld.org) dataset (in th
   - The features as depicted in the source publication.
   - Aggregated language-level speaker areas.
   - Aggregated family-level speaker areas.
+ 
+Reviewed and released datasets are published in the [Glottography community on Zenodo](https://zenodo.org/communities/glottography).
