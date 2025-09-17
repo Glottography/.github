@@ -20,3 +20,5 @@ This information is packaged into a [CLDF](https://cldf.clld.org) dataset (in th
   - Aggregated family-level speaker areas.
  
 Reviewed and released datasets are published in the [Glottography community on Zenodo](https://zenodo.org/communities/glottography).
+
+To suggest new datasets, open an issue at https://github.com/Glottography/.github/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22new%20dataset%22
